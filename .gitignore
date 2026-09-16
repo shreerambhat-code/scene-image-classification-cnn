@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environments
+venv/
+env/
+.venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Machine Learning
+*.h5
+*.hdf5
+*.keras
+*.pkl
+*.joblib
+
+# Dataset
+dataset/
+data/
+
+# Google Colab
+*.csv
